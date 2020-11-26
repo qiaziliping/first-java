@@ -1,7 +1,7 @@
 server:
   port: 8763
 
-qia: qiaqia version github test测
+qia: qiaqia version github test测解决
 
 test:
   name: spring cloud bus 测试
