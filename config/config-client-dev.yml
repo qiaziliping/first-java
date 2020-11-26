@@ -3,4 +3,7 @@ server:
 
 qia: qiaqia version github
 
+test:
+  name: spring cloud bus 测试
+
 
